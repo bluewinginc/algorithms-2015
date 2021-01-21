@@ -1,0 +1,27 @@
+{
+    "name": "bluewinginc/algorithms-2015",
+    "description": "2015 algorithms",
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "",
+    "authors": [
+        {
+            "name": "Ron Waters",
+            "email": "rwaters345@roadrunner.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bluewing\\Algorithms2015\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bluewing\\Algorithms2015\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
