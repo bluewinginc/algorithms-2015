@@ -3,7 +3,6 @@
     "description": "2015 algorithms",
     "type": "library",
     "minimum-stability": "stable",
-    "license": "",
     "authors": [
         {
             "name": "Ron Waters",
